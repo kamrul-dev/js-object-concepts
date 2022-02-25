@@ -1,4 +1,5 @@
-/* 
+/* <====================  Object and Object Property and Method =====================> 
+
     1. In object, we can write function as a property name. This function called method.
     2. We can access any property from object.
     3. We can change the property value.
